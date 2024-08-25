@@ -1,0 +1,17 @@
+.position-3 {
+    width: 50%;
+    margin-top: 5rem;
+    left: 25%;
+    margin-left: 1.5rem;
+    /* background-color: yellow; */
+    height: fit-content;
+}
+
+.width {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.margin-left {
+    margin-left: auto;
+}

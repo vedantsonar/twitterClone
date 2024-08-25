@@ -1,0 +1,22 @@
+.position-1 {
+    width: 50%;
+    margin-top: 5rem;
+    left: 27%;
+    margin-left: 1.5rem;
+    /* background-color: yellow; */
+    height: 86vh;
+}
+
+/* .padding-inline {
+    padding-inline: 25px;
+} */
+
+.width {
+    width: 50px; 
+    margin-left: 25px;
+}
+
+.bg-simple {
+    background-color: rgba(0, 128, 0, 0.412);
+    color: black;
+}

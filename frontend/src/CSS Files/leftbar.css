@@ -1,0 +1,54 @@
+.margin-top1 {
+    margin-top: 5rem;
+}
+
+.x-image {
+    width: 48px;
+    border-radius: 30px;
+}
+
+.bold-none {
+    font-weight: normal;
+    font-size: large;
+}
+
+.temp-color {
+    background-color: brown;
+    color: white;
+}
+
+.left-icon {
+    width: 45px;
+}
+
+.flex-for-icon {
+    display: flex;
+    align-items: center;
+    gap: 21px;
+}
+
+.border-radius {
+    border-radius: 15px !important;
+}
+
+.width-left {
+    width: 20%;
+}
+
+@media (max-width: 1236px) {
+    .text-hide {
+      display: none;
+    }
+
+    .flex-for-icon {
+        justify-content: center;
+    }
+}
+
+.list-item-width {
+    width: 80% !important; 
+}
+
+.fixed {
+    position: fixed;
+}
