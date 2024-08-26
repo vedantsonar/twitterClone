@@ -4,6 +4,7 @@ Twitter Clone made using MERN Stack
 
 <img src="pic-1.png" alt="My Project Logo" width="400"/>
 
+
  ## Features
 
 - Sign up/ Sign in via JWT Token
@@ -17,6 +18,7 @@ Twitter Clone made using MERN Stack
 - Delete tweets and comments
 
  <img src="pic-2.png" alt="My Project Logo" width="400"/>
+ 
 
 ## Contribute
 
